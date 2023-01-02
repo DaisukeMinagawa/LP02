@@ -1,0 +1,15 @@
+.bicycle-photos {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 16px;
+  min-width: 360px;
+  width: 100%;
+}
+
+// .bicycle-photos img {
+//   width: 30%;
+// }
+
+li h3 {
+  text-align: center;
+}
